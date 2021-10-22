@@ -23,7 +23,7 @@ author_image: "IMG_2553 (2) (1).JPG"
 paginate:	5
 
 url: "oceannbreezq.github.io" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "oceannbreezq.github.io"
 # #used to display twitter cards
 twitter_handle: '@gwooddevil'
 
