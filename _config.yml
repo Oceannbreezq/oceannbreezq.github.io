@@ -20,7 +20,7 @@ name: 'David Metanfanuan Jr'
 author: 'David Metanfanuan Jr'
 author_image: "jun.png"
 
-# paginate:	3
+paginate:	3
 
 # url: "oceannbreezq.github.io" # the base hostname & protocol for your site
 # baseurl: "oceannbreezq.github.io"
