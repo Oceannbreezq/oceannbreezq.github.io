@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "About Me"
+tags: Featured
 date:   2021-10-22 16:29:25
 image: /assets/images/wp3018319-renaissance-wallpaper-desktop.jpg
 ---
