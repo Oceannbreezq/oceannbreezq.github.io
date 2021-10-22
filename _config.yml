@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: david.aristotle21@gmail.com
 #blog logo
-logo: "download (2).jpg"
+logo: "download (2).png"
 float_logo: true # true, false (default)
 
 # blog cover
