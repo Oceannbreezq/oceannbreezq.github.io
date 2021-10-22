@@ -2,8 +2,8 @@
 layout: post
 title:  "How to Make Your Own GithubPage?"
 date:   2014-11-30 14:34:25
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/images/wallpaperflare.com_wallpaper1.jpg
+image2: /assets/images/wallpaperflare.com_wallpaper1.jpg
 ---
 #Mediator Formats and CSS features
 
