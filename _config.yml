@@ -4,17 +4,17 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "David Metanfanuan Jr"
+title: "Mediator"
 description: > # this means to ignore newlines until "email:"
-   Data Science Student at Airlangga University
+   A Jeckyll theme - Medium inspired
 
-email: david.aristotle21@gmail.com
+email: a-mail@mail.mail
 #blog logo
-logo: "download (2).png"
+logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "wallpaperflare.com_wallpaper2.jpg"
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
@@ -35,20 +35,21 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	envelope
-    url:	david.aristotle21@gmail.com
-    share_url:
-    share_title:
-    share_link:
+    url:	https://twitter.com/
+    desc: Follow me on twitter
+    share_url: https://twitter.com/share
+    share_title: ?text=
+    share_link: "$amp;url="
 
-  - icon:	instagram
-    url:	https://instagram.com/davidmetanjr
-    desc: Follow with me instagram
-    share_url: 
-    share_title: 
-    share_link: "&amp;u="
+#   - icon:	facebook
+#     url:	https://facebook.com/???
+#     desc: Connect with me facebook
+#     share_url: https://facebook.com/sharer.php
+#     share_title: ?t=
+#     share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/Oceannbreezq/
+    url:	https://github.com/dirkfabisch
     share_url:
     share_title:
     share_link:
