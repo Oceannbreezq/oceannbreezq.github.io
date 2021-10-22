@@ -18,14 +18,14 @@ cover: "wallpaperflare.com_wallpaper2.jpg"
 
 name: 'David Metanfanuan Jr'
 author: 'David Metanfanuan Jr'
-author_image: "/assets/images/author.jpg"
+author_image: "IMG_2553 (2) (1).JPG"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
+# url: "http://myblog.***.***" # the base hostname & protocol for your site
+# baseurl: ""
+# #used to display twitter cards
+# twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
