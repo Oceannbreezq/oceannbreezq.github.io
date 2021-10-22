@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<embed src="CV.pdf" width="800px" height="2100px" />
+<img src="0011.jpg" alt="David's CV
