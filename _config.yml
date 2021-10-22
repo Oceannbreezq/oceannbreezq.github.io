@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 email: david.aristotle21@gmail.com
 #blog logo
 logo: "download (2).png"
-float_logo: true # true, false (default)
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "wallpaperflare.com_wallpaper2.jpg"
@@ -20,7 +20,7 @@ name: 'David Metanfanuan Jr'
 author: 'David Metanfanuan Jr'
 author_image: "jun.png"
 
-paginate:	3
+# paginate:	3
 
 # url: "oceannbreezq.github.io" # the base hostname & protocol for your site
 # baseurl: "oceannbreezq.github.io"
