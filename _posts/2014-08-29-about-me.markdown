@@ -2,7 +2,7 @@
 layout: post
 title:  "About Me"
 date:   2021-10-22 16:29:25
-image: /assets/images/la nuit de walpurgis by constantin nepo hd.jpg
+image: /assets/images/wp3018319-renaissance-wallpaper-desktop.jpg
 ---
 Hi there! My name is David Aristoteles Kevas Metanfanuan Junior. I'm a Data Science student in Airlangga University in Surabaya, Indonesia. Currently I'm in my third semester and this is my midterm project. 
 
