@@ -22,10 +22,10 @@ author_image: "jun.png"
 
 paginate:	3
 
-url: "oceannbreezq.github.io" # the base hostname & protocol for your site
-baseurl: "oceannbreezq.github.io"
-# #used to display twitter cards
-twitter_handle: '@gwooddevil'
+# url: "oceannbreezq.github.io" # the base hostname & protocol for your site
+# baseurl: "oceannbreezq.github.io"
+# # #used to display twitter cards
+# twitter_handle: '@gwooddevil'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
