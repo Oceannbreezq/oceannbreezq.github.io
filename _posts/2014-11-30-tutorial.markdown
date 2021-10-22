@@ -5,32 +5,14 @@ date:   2021-10-22 17:50:25
 image: /assets/images/wallpaperflare.com_wallpaper1.jpg
 image2: /assets/images/wallpaperflare.com_wallpaper1.jpg
 ---
-#Using Jekyll
+>How to recreate this GithubPage?
 
-#Header Formats
-#Header1
-##Header2
+For this tutorial, we are going to use Github and Jekyll.
 
-#Blockquotes
->Wow this is a nice page, how do i make them?
+# What is Github?
+GitHub is a provider of Internet hosting for software development and version control using Git. It provides access control and several collaboration features such as bug tracking
 
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
+# What is Jekyll?
+Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can browse through various templates from here (https://jekyllthemes.io/).
 
-##unorderd lists
-- Apple
-- Banana
-- Plum
-
-#Links
-This is an [example link](http://example.com/ "With a Title").
-
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
+TO BE CONTINUED...
