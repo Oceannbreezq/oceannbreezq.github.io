@@ -34,23 +34,21 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  - icon:	envelope
+    url:	david.aristotle21@gmail.com
+    share_url:
+    share_title:
+    share_link:
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	instagram
+    url:	https://instagram.com/davidmetanjr
+    desc: Follow with me instagram
+    share_url: 
+    share_title: 
+    share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/Oceannbreezq/
-    desc:	Fork me on github
     share_url:
     share_title:
     share_link:
