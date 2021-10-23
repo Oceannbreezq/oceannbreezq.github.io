@@ -13,6 +13,9 @@ For this tutorial, we are going to use Github and Jekyll.
 GitHub is a provider of Internet hosting for software development and version control using Git. It provides access control and several collaboration features such as bug tracking
 
 # What is Jekyll?
-Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can browse through various templates from here (https://jekyllthemes.io/).
+Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can browse through various templates from here [https://jekyllthemes.io/](https://jekyllthemes.io/).
+
+# Let's Get Started
+## 1. Login to Your Github Account
 
 TO BE CONTINUED...
