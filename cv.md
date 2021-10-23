@@ -4,6 +4,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-![](https://github.com/Oceannbreezq/oceannbreezq.github.io/blob/master/0001.jpg)
+![cv](https://github.com/Oceannbreezq/oceannbreezq.github.io/blob/master/0001.JPG)
 
 you can [get the PDF](CV.pdf) directly.
