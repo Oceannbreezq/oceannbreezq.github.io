@@ -10,3 +10,4 @@ Hi there! My name is David Aristoteles Kevas Metanfanuan Junior. I'm a Data Scie
 
 On my first semester, I took part in the National Data Science Competition with my friends. Although we didn't win, I thought it was an interesting experience. 
 
+On my first semester, my team I made a diabetes prediction using decision tree algorithm for our final project. For our dataset, we useed thr Pima Indians dataset. This project can be used as an early screening, and will be followed up by the treating doctor.
