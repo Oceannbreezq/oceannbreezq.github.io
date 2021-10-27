@@ -27,4 +27,4 @@ When the content is finished loading, the Mediator repository will appear
 
 
 
-<a href="./tutor2.md">Next Page</a>
+<a href="tutor2.md">Next Page</a>
