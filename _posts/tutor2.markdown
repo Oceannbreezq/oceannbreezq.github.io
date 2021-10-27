@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "How to Make Your Own GithubPage?"
-date:   2021-10-22 17:50:25
+permalink: /2/
 ---
 
 ## 2. Fork the Repository
