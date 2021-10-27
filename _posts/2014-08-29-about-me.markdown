@@ -6,9 +6,10 @@ categories: about me
 tags: featured
 image: /assets/images/wp3018319-renaissance-wallpaper-desktop.jpg
 ---
-Hi there! My name is David Aristoteles Kevas Metanfanuan Junior. I'm a Data Science student in Airlangga University in Surabaya, Indonesia. 
+## Ello!
+My name is David Aristoteles Kevas Metanfanuan Junior, you can call me David, Dave, Jun, or Jay! I'm a Data Science student in [Airlangga University](https://www.unair.ac.id/) in Surabaya, Indonesia. 
 
-On my first semester, I took part in the National Data Science Competition with my friends. Although we didn't win, I thought it was an interesting experience. 
+On my first semester, I took part in the National Data Science Competition with my friends. Although we didn't win, I think it was an interesting experience. 
 
 And my second semester, my team and I made a diabetes prediction program using decision tree algorithm for our final project. For our dataset, we useed the Pima Indians dataset. This program can be used as an early screening, and will be followed up by the treating doctor.
 
@@ -20,4 +21,4 @@ Outside of the college, I participated in the committee for the Welcoming of New
 
 I am fluent in Indonesian and English (and also a little bit of German). I really like coffee, to the point that I've had coffee 4 times in one day (don't worry, even so I can still sleep well). I'm a superhero fan, but more towards Marvel, and really like Lord of the Rings. My favorite genres are classical and pop music. I'm currently learning to knit by watching tutorials from Youtube (fun fact, knitting can reduce the risk of Alzheimer's).
 
-Connect with me via email to david.aristotle21@gmail.com or to my mobile +62 8571-4104-003. 
+Connect with me via email to [david.aristotle21@gmail.com](david.aristotle21@gmail.com) or to my mobile [+62 8571-4104-003](+62 8571-4104-003). 
