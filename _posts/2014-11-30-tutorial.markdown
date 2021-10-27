@@ -16,6 +16,31 @@ GitHub is a provider of Internet hosting for software development and version co
 Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can browse through various templates from here [https://jekyllthemes.io/](https://jekyllthemes.io/).
 
 # Let's Get Started
-## 1. Login to Your Github Account
+## 1. Browse Templates in Jekyll
+-jekyll.png-
+Go to [https://jekyllthemes.io/](https://jekyllthemes.io/) and search for Mediator template
+-mediator1.png-
 
-TO BE CONTINUED...
+Then click Get Mediator on GitHub.
+-mediator2.png-
+
+When the content is finished loading, the Mediator repository will appear
+-1.png-
+
+## 2. Fork the Repository
+To use this template, we just need to fork this repository by clicking the Fork button in the top right corner.
+-1a.png-
+If you have, it will be seen that this repository is ours and there is an inscription that this repository is forked from dirkfabisch/mediator
+-1b.png-
+
+## 3. Edit the Repository Details
+We can rename this repository (to make it more personal) by going to Settings, then renaming the repository.
+-1c.png-
+Back to the Code section, click Settings next to About to edit the details
+-1d.png-
+
+We can already see the initial appearance of the blog (same as the template) by going to the personal website link provided by GitHub (username.github.io)
+-1e.png-
+
+## Customize the Blog
+segini dulu y capek:D
