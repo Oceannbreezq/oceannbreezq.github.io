@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "How to Make Your Own GithubPage?"
-permalink: /2/
 ---
 
 ## 2. Fork the Repository
