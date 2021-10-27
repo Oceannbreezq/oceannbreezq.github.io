@@ -35,12 +35,12 @@ If you have, it will be seen that this repository is ours and there is an inscri
 
 ## 3. Edit the Repository Details
 We can rename this repository (to make it more personal) by going to Settings, then renaming the repository.
-![Rename](/assets/alprow/1c.png)
+![   ](/assets/alprow/1c.png)
 Back to the Code section, click Settings next to About to edit the details
-![Details](/assets/alprow/1d.png)
+![   ](/assets/alprow/1d.png)
 
 We can already see the initial appearance of the blog (same as the template) by going to the personal website link provided by GitHub (username.github.io)
-![Tadaa](/assets/alprow/1e.png)
+![   ](/assets/alprow/1e.png)
 
 ## Customize the Blog
 segini dulu y capek:D
