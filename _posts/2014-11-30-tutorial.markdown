@@ -27,4 +27,4 @@ When the content is finished loading, the Mediator repository will appear
 
 
 
-<a href="https://github.com/Oceannbreezq/oceannbreezq.github.io/blob/ea31026290339f162c4e4a111f9b46ce4c2cb640/_posts/tutor2.markdown">Next Page</a>
+<a href="_posts/tutor2.markdown">Next Page</a>
