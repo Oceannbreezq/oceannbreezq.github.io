@@ -7,6 +7,7 @@ tags: featured
 image: /assets/images/wp3018319-renaissance-wallpaper-desktop.jpg
 ---
 ## Ello!
+
 My name is David Aristoteles Kevas Metanfanuan Junior, you can call me David, Dave, Jun, or Jay! I'm a Data Science student in [Airlangga University](https://www.unair.ac.id/) in Surabaya, Indonesia. 
 
 On my first semester, I took part in the National Data Science Competition with my friends. Although we didn't win, I think it was an interesting experience. 
@@ -14,8 +15,6 @@ On my first semester, I took part in the National Data Science Competition with 
 And my second semester, my team and I made a diabetes prediction program using decision tree algorithm for our final project. For our dataset, we useed the Pima Indians dataset. This program can be used as an early screening, and will be followed up by the treating doctor.
 
 Currently I'm in my third semester and this is my midterm project. 
-
-Right now i am trying to build my portofolio.
 
 Outside of the college, I participated in the committee for the Welcoming of New Students as one of the event division. I am also the Secretary of the Data Science Technology Student Daily Responsible Agency.
 
