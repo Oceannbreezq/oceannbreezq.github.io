@@ -40,4 +40,20 @@ We can already see the initial appearance of the blog (same as the template) by 
 ![   ](/assets/alprow/1e.png)
 
 ## Customize the Blog
-segini dulu y capek:D
+Go to _config.yml_ to change the title of the blog and the blog images
+![   ](/assets/alprow/2.png)
+After we edit the elements, we must commit the changes by clicking the _Commit changes_ button
+![   ](/assets/alprow/2d.png)
+
+We can upload images to the repo by clicking the Add file button, and Upload files
+![   ](/assets/alprow/3.png)
+
+This template already provide 2 example pages, the Welcome to Jekyll and Mediator Features. We can easily edit those pages by going to the __post folder, and edit the pages.
+![   ](/assets/alprow/4a.png)
+![   ](/assets/alprow/4b.png)
+![   ](/assets/alprow/4c.png)
+
+And there you go. You've created your own Blog using Github Pages and Jekyll. If you want to know more, you can watch this tutorial below
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qZsgPgGdOzQ/0.jpg)](https://www.youtube.com/watch?v=qZsgPgGdOzQ)
+
+Or you can read my report [here](/assets/alprow/UTS_David Aristoteles K M J_162012133025.pdf).
