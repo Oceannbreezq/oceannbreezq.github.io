@@ -54,6 +54,6 @@ This template already provide 2 example pages, the Welcome to Jekyll and Mediato
 ![   ](/assets/alprow/4c.png)
 
 And there you go. You've created your own Blog using Github Pages and Jekyll. If you want to know more, you can watch this tutorial below
-[![  ](https://i.imgur.com/qZsgPgGdOzQ.png)](https://www.youtube.com/watch?v=qZsgPgGdOzQ align="center")
+[![  ](https://i.imgur.com/qZsgPgGdOzQ.png)](https://www.youtube.com/watch?v=qZsgPgGdOzQ align="center" width="560" height="315")
 
 Or you can read my report [here](/assets/alprow/UTS_David Aristoteles K M J_162012133025.pdf).
